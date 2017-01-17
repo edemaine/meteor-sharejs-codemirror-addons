@@ -1,5 +1,5 @@
 // This is what I want to work, but doesn't:
-//import CodeMirror from "meteor/mizzao:sharejs-codemirror/node_modules/codemirror/mode/markdown/markdown.js";
+//import "meteor/mizzao:sharejs-codemirror/node_modules/codemirror/mode/markdown/markdown.js";
 
 Template.docList.helpers({
   documents: function() {
